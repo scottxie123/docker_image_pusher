@@ -1,5 +1,6 @@
 qwenllm/qwenvl:2.5-cu121
 openmmlab/lmdeploy:v0.7.3-cu12
+vllm/vllm-openai:latest
 
 #nginx
 #支持私库
