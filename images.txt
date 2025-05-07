@@ -1,6 +1,7 @@
 qwenllm/qwenvl:2.5-cu121
 openmmlab/lmdeploy:v0.7.3-cu12
 vllm/vllm-openai:latest
+multiarch/qemu-user-static:register
 
 #nginx
 #支持私库
